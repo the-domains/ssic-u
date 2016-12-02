@@ -1,0 +1,43 @@
+typography_spectrum: 0.9888194040835162
+color:
+  brandStrength: 0.43621963074513814
+  lightness: 0.05909015102690031
+  saturation: 0.20296623282143755
+  rhythmicContrast: 0.4627873164185756
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+github: true
+layout_spectrum: 0.7522453334076459
+name: 'Sales, Solicitors and Independent Contractors Union'
+navigation:
+  - name: About Us
+    url: 'https://yakurylander.wordpress.com/about/'
+    type: external
+  - name: Discussion
+    url: 'https://yakurylander.wordpress.com/discussions/'
+    type: external
+  - name: Free Legal Service
+    url: 'https://yakurylander.wordpress.com/2016/11/29/free-legal-service-updates/'
+    type: external
+  - name: Member Services Sign Up
+    url: 'https://yakurylander.wordpress.com'
+    type: external
+title: SSIC-U
+content: []
+description: >-
+  The Sales, Solicitors and Independent Contractors Union is constructed on the
+  need to strengthen the sales agents and ensure fairness for the overlooked
+  hard working men and women who are still without a place to turn to for help.
+  Sales and Independent contractors are still one of the few fields that is
+  without the protection of the NLRB.
+purpose:
+  - type: external
+    url: 'https://yakurylander.wordpress.com/member-services/'
+    label: Join Today
+  - type: external
+    url: 'https://yakurylander.wordpress.com/discussions/'
+    label: Discussions
