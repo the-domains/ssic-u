@@ -1,9 +1,10 @@
-typography_spectrum: 0.9888194040835162
+layout_spectrum: 0.3056346418349865
+typography_spectrum: 0.7909627564450598
 color:
-  brandStrength: 0.43621963074513814
-  lightness: 0.05909015102690031
-  saturation: 0.20296623282143755
-  rhythmicContrast: 0.4627873164185756
+  brandStrength: 0.23011990223734613
+  lightness: 0.16117268499752305
+  saturation: 0.5259698980006546
+  rhythmicContrast: 0.43664187779668534
   brandColors:
     - '#DDDCC5'
     - '#958976'
@@ -11,7 +12,6 @@ color:
     - '#1D2326'
     - '#6A6A61'
 github: true
-layout_spectrum: 0.7522453334076459
 name: 'Sales, Solicitors and Independent Contractors Union'
 navigation:
   - name: About Us
