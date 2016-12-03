@@ -20,11 +20,11 @@ navigation:
   - name: Discussion
     url: 'https://yakurylander.wordpress.com/discussions/'
     type: external
-  - name: Free Legal Service
-    url: 'https://yakurylander.wordpress.com/2016/11/29/free-legal-service-updates/'
-    type: external
   - name: Member Services Sign Up
     url: 'https://yakurylander.wordpress.com'
+    type: external
+  - name: Free Legal Service
+    url: 'https://yakurylander.wordpress.com/2016/11/29/free-legal-service-updates/'
     type: external
 title: SSIC-U
 content: []
