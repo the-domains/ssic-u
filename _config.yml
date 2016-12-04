@@ -12,6 +12,8 @@ color:
     - '#6A6A61'
 github: true
 layout_spectrum: 0.3056346418349865
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8862b1dd-6cbf-4c06-a033-188275a35ce5.png
 name: 'Sales, Solicitors and Independent Contractors Union'
 navigation:
   - name: About Us
@@ -26,6 +28,8 @@ navigation:
   - name: Free Legal Service
     url: 'https://yakurylander.wordpress.com/2016/11/29/free-legal-service-updates/'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/16dcdb45-e5e2-4a20-9ea0-1cb560476b76.png
 title: SSIC-U
 content: []
 description: >-
