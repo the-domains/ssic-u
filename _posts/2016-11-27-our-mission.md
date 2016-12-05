@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T11:56:32.657Z'
+datePublished: '2016-12-05T11:56:51.822Z'
 sourcePath: _posts/2016-11-27-our-mission.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-29T21:27:59.518Z'
-dateModified: '2016-12-05T11:56:32.225Z'
+dateModified: '2016-12-05T11:56:51.609Z'
 title: ''
 publisher: {}
 description: Our Mission
@@ -15,6 +15,8 @@ url: our-mission/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee3b63d3-eff5-4c7c-a8c7-6c33721d02a6.png)
+
 [Our Mission][0]
 
 ---
