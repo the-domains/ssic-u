@@ -1,4 +1,3 @@
-layout_spectrum: 0.3417651793786721
 typography_spectrum: 0.26774762687725157
 color:
   brandStrength: 0.5690658430858414
@@ -12,6 +11,7 @@ color:
     - '#1D2326'
     - '#6A6A61'
 github: true
+layout_spectrum: 0.3417651793786721
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9104b70-2c30-4e7c-9646-dbe1eafd13e7.png
 name: 'Sales, Solicitors and Independent Contractors Union'
@@ -27,6 +27,9 @@ navigation:
     type: external
   - name: Free Legal Service
     url: 'https://yakurylander.wordpress.com/2016/11/29/free-legal-service-updates/'
+    type: external
+  - name: CONTACT US
+    url: 'https://yakurylander.wordpress.com/contact-us/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/45218c2c-efed-43d6-8079-cdf196e9e3a2.png
