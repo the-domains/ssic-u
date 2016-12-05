@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-12-05T11:14:39.311Z'
+datePublished: '2016-12-05T11:15:30.661Z'
 sourcePath: _posts/2016-11-27-our-mission.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-29T21:27:59.518Z'
-dateModified: '2016-12-05T11:14:38.694Z'
-title: ''
+dateModified: '2016-12-05T11:15:29.919Z'
+title: 'Sales, Solicitors and Independent Contractors Union'
 publisher: {}
 description: Our Mission
 starred: false
@@ -15,6 +15,8 @@ url: our-mission/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57da9775-6f83-49d3-939a-784f219d45c2.png)
+
 [Our Mission][0]
 
 ---
@@ -32,7 +34,6 @@ Our goal is to help you stay your best, keep you trained and employed and free t
 Though salespeople are often viewed in a negative light, not because we are bad people, it was actually due to the fact that we didn't have Public Relations Representatives, like the NBA, NHL, MLB, NFL players, or top political and public figures.
 
 Well now we do. Join your community, it's time the sales field come together. You already know there is strength in numbers, add your voice to ours and keep America selling.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57da9775-6f83-49d3-939a-784f219d45c2.png)
 
 1Timothy 5:18 for the scripture says, Thou shalt not muzzle an ox that treadeth out corn, and, The workman _is_ worthy of his hire.
 
