@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T12:02:03.040Z'
+datePublished: '2016-12-05T12:02:45.659Z'
 sourcePath: _posts/2016-11-27-our-mission.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-29T21:27:59.518Z'
-dateModified: '2016-12-05T12:02:02.500Z'
+dateModified: '2016-12-05T12:02:45.032Z'
 title: 'Sales, Solicitors and Independent Contractors Union'
 publisher: {}
 description: Our Mission
@@ -35,7 +35,7 @@ Our goal is to help you stay your best, keep you trained and employed and free t
 
 Though salespeople are often viewed in a negative light, not because we are bad people, it was actually due to the fact that we didn't have Public Relations Representatives, like the NBA, NHL, MLB, NFL players, or top political and public figures.
 
-Well now we do. Join your community, it's time the sales field come together. You already know there is strength in numbers, add your voice to ours and keep America selling.
+Join your community, it's time the sales field come together. You already know there is strength in numbers, add your voice to ours and keep America selling.
 
 1Timothy 5:18 for the scripture says, Thou shalt not muzzle an ox that treadeth out corn, and, The workman _is_ worthy of his hire.
 
