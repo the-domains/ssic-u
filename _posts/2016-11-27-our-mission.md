@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T12:04:29.544Z'
+datePublished: '2016-12-05T12:05:09.629Z'
 sourcePath: _posts/2016-11-27-our-mission.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-29T21:27:59.518Z'
-dateModified: '2016-12-05T12:04:29.047Z'
+dateModified: '2016-12-05T12:05:09.200Z'
 title: 'Sales, Solicitors and Independent Contractors Union'
 publisher: {}
 description: Our Mission
@@ -29,7 +29,7 @@ Not all employers that hire sales reps are giving unwarranted difficulties but t
 
 Our goal is to help all men and women in the sales field reach the point of being gainfully employed, secure on their job and as stable as non-sales related positions in their particular industry. You do not have to settle for workplace hostility, and there are too many great companies to work for that truly will appreciate you.
 
-We offer free sales training, employment assistance, and a legal team dedicated to ensuring you are free to be your best and are being treated with civility. Services that are included free with your membership.
+We offer [free sales training][1], employment assistance, and a legal team dedicated to ensuring you are free to be your best and are being treated with civility. Services that are included free with your membership.
 
 Our goal is to help you stay your best, keep you trained and employed and free to focus on selling, supporting and representing your employer(s) with the professionalism they deserve.
 
