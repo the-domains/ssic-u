@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T12:00:04.693Z'
+datePublished: '2016-12-05T12:00:08.343Z'
 sourcePath: _posts/2016-11-27-our-mission.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-29T21:27:59.518Z'
-dateModified: '2016-12-05T12:00:03.993Z'
+dateModified: '2016-12-05T12:00:07.967Z'
 title: 'Sales, Solicitors and Independent Contractors Union'
 publisher: {}
 description: Our Mission
