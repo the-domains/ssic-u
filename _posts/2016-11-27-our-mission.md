@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T11:13:57.115Z'
+datePublished: '2016-12-05T11:14:37.586Z'
 sourcePath: _posts/2016-11-27-our-mission.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-29T21:27:59.518Z'
-dateModified: '2016-12-05T11:13:56.362Z'
+dateModified: '2016-12-05T11:14:36.308Z'
 title: ''
 publisher: {}
 description: Our Mission
