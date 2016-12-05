@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[SSIC-U]]></title>
         <description><![CDATA[SSIC-U]]></description>
-        <link>http://ssic-u.com/</link>
+        <link>http://ssic-u.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Dec 2016 01:25:26 GMT</lastBuildDate>
-        <atom:link href="http://ssic-u.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Dec 2016 01:25:25 GMT</pubDate>
+        <lastBuildDate>Mon, 05 Dec 2016 11:14:08 GMT</lastBuildDate>
+        <atom:link href="http://ssic-u.us/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 05 Dec 2016 11:13:57 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e54387f5-9cd2-4934-b101-b77500d4cb7d.jpg">]]></description>
-            <link>http://ssic-u.com/our-mission/index.html</link>
+            <description><![CDATA[<p>Our Mission</p>]]></description>
+            <link>http://ssic-u.us/our-mission/index.html</link>
             <guid isPermaLink="false">eafb2eea-318e-4f11-b279-9e94142f2b9a</guid>
-            <pubDate>Fri, 02 Dec 2016 23:58:41 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2016 11:13:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
