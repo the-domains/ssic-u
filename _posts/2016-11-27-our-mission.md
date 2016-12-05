@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T12:01:31.317Z'
+datePublished: '2016-12-05T12:02:03.040Z'
 sourcePath: _posts/2016-11-27-our-mission.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-29T21:27:59.518Z'
-dateModified: '2016-12-05T12:01:30.560Z'
+dateModified: '2016-12-05T12:02:02.500Z'
 title: 'Sales, Solicitors and Independent Contractors Union'
 publisher: {}
 description: Our Mission
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 
-Over the years Sales Representatives and Independent Contractors have progressively struggled. Times when an employer was able to take advantage of them knowing you don't have much legal protection is discouraging
+Over the years Sales Representatives and Independent Contractors have progressively struggled. Times when an employer was able to take advantage of them knowing you don't have much legal protection is discouraging...
 
 I believe the loss of income from those of us at the bottom by unprotected firing rights, breaches of contracts unpaid commissions and the like has hurt the entire US economy. The people at the top are ok with sharing as they have constantly siad through out recent years. We just don't have a single voice, our voices have been scattered since the beginning and in today's economics we can't afford it any longer.
 
