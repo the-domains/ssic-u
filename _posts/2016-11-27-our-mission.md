@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T12:00:39.211Z'
+datePublished: '2016-12-05T12:00:52.396Z'
 sourcePath: _posts/2016-11-27-our-mission.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-29T21:27:59.518Z'
-dateModified: '2016-12-05T12:00:38.860Z'
+dateModified: '2016-12-05T12:00:52.042Z'
 title: 'Sales, Solicitors and Independent Contractors Union'
 publisher: {}
 description: Our Mission
@@ -21,7 +21,9 @@ _type: Article
 
 ---
 
-Over the years Sales Representatives and Independent Contractors have progressively struggled. Times when an employer was able to take advantage of them knowing you don't have much legal protection is discouraging. I believe the loss of income from those of us at the bottom by unprotected firing rights, breaches of contracts unpaid commissions and the like has hurt the entire US economy. The people at the top are ok with sharing as they have constantly siad through out recent years. We just don't have a single voice, our voices have been scattered since the beginning and in today's economics we can't afford it any longer.
+Over the years Sales Representatives and Independent Contractors have progressively struggled. Times when an employer was able to take advantage of them knowing you don't have much legal protection is discouraging
+
+I believe the loss of income from those of us at the bottom by unprotected firing rights, breaches of contracts unpaid commissions and the like has hurt the entire US economy. The people at the top are ok with sharing as they have constantly siad through out recent years. We just don't have a single voice, our voices have been scattered since the beginning and in today's economics we can't afford it any longer.
 
 Not all employers that hire sales reps are giving unwarranted difficulties but the good model of those company's should be standard for all the people in the sales field and not just the great company's some of us have been fortunate enough to get hired at.
 
